@@ -17,7 +17,7 @@ class BarycentricBasis: public Basis{
 public:
 
   //! Documentation TODO
-  std::array<double> evaluate_basis(double x);
+  std::vector<double> evaluate_basis(double x);
 
 };
 

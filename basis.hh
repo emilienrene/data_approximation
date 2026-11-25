@@ -2,6 +2,7 @@
 #define __BASIS__HH__
 
 /* -------------------------------------------------------------------------- */
+#include <vector>
 
 /**
   * Documentation TODO
@@ -16,7 +17,7 @@ class Basis{
 public:
 
   //! Documentation TODO
-  virtual std::array<double> evaluate_basis(double x);
+  virtual std::vector<double> evaluate_basis(double x);
 
 
   /* ------------------------------------------------------------------------ */

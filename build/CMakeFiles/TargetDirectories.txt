@@ -1,0 +1,3 @@
+/home/andre/git/data_approximation/build/CMakeFiles/main.dir
+/home/andre/git/data_approximation/build/CMakeFiles/edit_cache.dir
+/home/andre/git/data_approximation/build/CMakeFiles/rebuild_cache.dir

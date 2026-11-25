@@ -1,12 +1,8 @@
 #include "lagrange_basis.hh"
 /* -------------------------------------------------------------------------- */
 
-std::vector<double> LagrangeBasis::evaluate_basis(double x){
-
+std::vector<double> LagrangeBasis::evaluate_basis(double x)
+{
 }
 
-
-
 /* --------------------------------------------------------------------------- */
-
-

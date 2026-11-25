@@ -2,7 +2,12 @@
 #define __CUBIC_SPLINES__HH__
 
 /* -------------------------------------------------------------------------- */
-#include "interpolator.hh"
+#include "../../types/data_point.hh"
+#include "../../types/interval.hh"
+#include "../interpolator.hh"
+
+#include <array>
+#include <map>
 
 /**
   * Documentation TODO

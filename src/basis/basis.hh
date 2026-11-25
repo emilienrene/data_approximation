@@ -2,33 +2,32 @@
 #define __BASIS__HH__
 
 /* -------------------------------------------------------------------------- */
+#include "../data_set/data_set.hh"
+
 #include <vector>
 
 /**
-  * Documentation TODO
-  */
+ * Documentation TODO
+ */
 
-class Basis{
+class Basis
+{
 
   /* ------------------------------------------------------------------------ */
   /* Methods                                                                  */
   /* ------------------------------------------------------------------------ */
 
 public:
-
   //! Documentation TODO
   virtual std::vector<double> evaluate_basis(double x);
-
 
   /* ------------------------------------------------------------------------ */
   /* Members                                                                  */
   /* ------------------------------------------------------------------------ */
 
 protected:
-
-  //!Documentation TODO
+  //! Documentation TODO
   DataSet dataSet;
-
 };
 
 /* -------------------------------------------------------------------------- */

@@ -5,20 +5,19 @@
 #include "basis.hh"
 
 /**
-  * Documentation TODO
-  */
+ * Documentation TODO
+ */
 
-class LagrangeBasis: public Basis{
+class LagrangeBasis : public Basis
+{
 
   /* ------------------------------------------------------------------------ */
   /* Methods                                                                  */
   /* ------------------------------------------------------------------------ */
 
 public:
-
   //! Documentation TODO
   std::vector<double> evaluate_basis(double x);
-
 };
 
 /* -------------------------------------------------------------------------- */

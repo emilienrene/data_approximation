@@ -4,6 +4,8 @@
 /* -------------------------------------------------------------------------- */
 #include "streamable.hh"
 
+#include <string>
+
 /**
   * Documentation TODO
   */

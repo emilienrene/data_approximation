@@ -4,21 +4,22 @@
 /* -------------------------------------------------------------------------- */
 #include "basis.hh"
 
-/**
-  * Documentation TODO
-  */
+#include <vector>
 
-class BarycentricBasis: public Basis{
+/**
+ * Documentation TODO
+ */
+
+class BarycentricBasis : public Basis
+{
 
   /* ------------------------------------------------------------------------ */
   /* Methods                                                                  */
   /* ------------------------------------------------------------------------ */
 
 public:
-
   //! Documentation TODO
   std::vector<double> evaluate_basis(double x);
-
 };
 
 /* -------------------------------------------------------------------------- */

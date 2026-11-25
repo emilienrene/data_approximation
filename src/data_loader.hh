@@ -2,6 +2,11 @@
 #define __DATA_LOADER__HH__
 
 /* -------------------------------------------------------------------------- */
+#include "data_set/data_set.hh"
+#include "point_parser/point_parser.hh"
+#include "types/interval.hh"
+
+#include <string>
 
 /**
   * Documentation TODO

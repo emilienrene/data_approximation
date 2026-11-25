@@ -1,4 +1,8 @@
 #include "point_parser.hh"
+
+#include <fstream>
+#include <optional>
+
 /* -------------------------------------------------------------------------- */
 
  PointParser::PointParser(std::ifstream& input){

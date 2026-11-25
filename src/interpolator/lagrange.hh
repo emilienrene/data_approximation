@@ -2,7 +2,10 @@
 #define __LAGRANGE__HH__
 
 /* -------------------------------------------------------------------------- */
+#include "../types/data_point.hh"
 #include "interpolator.hh"
+
+#include <vector>
 
 /**
   * Documentation TODO

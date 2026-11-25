@@ -2,6 +2,7 @@
 #define __STREAMABLE__HH__
 
 /* -------------------------------------------------------------------------- */
+#include <string>
 
 /**
   * Documentation TODO

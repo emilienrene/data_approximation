@@ -5,20 +5,19 @@
 #include "basis.hh"
 
 /**
-  * Documentation TODO
-  */
+ * Documentation TODO
+ */
 
-class CubicSplinesBasis: public Basis{
+class CubicSplinesBasis : public Basis
+{
 
   /* ------------------------------------------------------------------------ */
   /* Methods                                                                  */
   /* ------------------------------------------------------------------------ */
 
 public:
-
   //! Documentation TODO
-  std::vector<double> evaluate_basis(double x);
-
+  std::array<double> evaluate_basis(double x);
 };
 
 /* -------------------------------------------------------------------------- */

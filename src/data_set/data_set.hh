@@ -2,6 +2,10 @@
 #define __DATA_SET__HH__
 
 /* -------------------------------------------------------------------------- */
+#include "../types/data_point.hh"
+#include "../types/interval.hh"
+
+#include <cstddef>
 
 /**
   * Documentation TODO

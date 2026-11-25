@@ -1,4 +1,9 @@
 #include "data_set.hh"
+#include "../types/data_point.hh"
+#include "../types/interval.hh"
+
+#include <cstddef>
+
 /* -------------------------------------------------------------------------- */
 
  DataSet::~DataSet(){

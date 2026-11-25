@@ -2,7 +2,7 @@
 #define __VISUALIZER__HH__
 
 /* -------------------------------------------------------------------------- */
-#include "export.hh"
+#include "../export.hh"
 
 /**
   * Documentation TODO

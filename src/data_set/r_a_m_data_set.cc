@@ -1,4 +1,10 @@
 #include "r_a_m_data_set.hh"
+#include "../types/data_point.hh"
+#include "../types/interval.hh"
+
+#include <cstddef>
+#include <vector>
+
 /* -------------------------------------------------------------------------- */
 
  RAMDataSet::RAMDataSet(std::vector<DataPoint> data, Interval bounds){

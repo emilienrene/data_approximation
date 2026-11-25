@@ -1,4 +1,6 @@
 #include "lagrange.hh"
+#include "../types/data_point.hh"
+
 /* -------------------------------------------------------------------------- */
 
 DataPoint Lagrange::compute(double x){

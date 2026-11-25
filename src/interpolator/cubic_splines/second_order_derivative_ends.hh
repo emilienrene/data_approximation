@@ -2,7 +2,10 @@
 #define __SECOND_ORDER_DERIVATIVE_ENDS__HH__
 
 /* -------------------------------------------------------------------------- */
+#include "../../types/data_point.hh"
 #include "cubic_splines.hh"
+
+#include <vector>
 
 /**
   * Documentation TODO

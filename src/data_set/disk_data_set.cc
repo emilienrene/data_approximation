@@ -1,4 +1,11 @@
 #include "disk_data_set.hh"
+#include "../types/data_point.hh"
+#include "../types/interval.hh"
+
+#include <cstddef>
+#include <string>
+#include <vector>
+
 /* -------------------------------------------------------------------------- */
 
  DiskDataSet::DiskDataSet(std::string filePath, Interval bounds){

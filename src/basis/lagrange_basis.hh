@@ -5,7 +5,7 @@
 #include "basis.hh"
 
 /**
- * Documentation TODO
+ * This file contains the basis function for a Lagrange interpolator. The Interpolator will call Lagrange, which will use coefficients to weight at sum of basis functions, herein defined and computed for specific instances.
  */
 
 class LagrangeBasis : public Basis
@@ -16,7 +16,7 @@ class LagrangeBasis : public Basis
   /* ------------------------------------------------------------------------ */
 
 public:
-  //! Documentation TODO
+  //! This method takes an x-coordinate as input, then returns the correct basis functions computed at that specific x-point, sorted in a vector such as [basis_1(x), basis_2(x)].
   std::vector<double> evaluate_basis(double x);
 };
 

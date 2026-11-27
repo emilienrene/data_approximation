@@ -29,6 +29,7 @@ add_executable(main
     src/export/visualizer/visualizer.cc
     src/export/dump.cc
     src/export/visualizer/g_n_u_plot.cc
+    src/basis/tests.cpp
 )
 
 target_compile_features(main PRIVATE cxx_std_17)

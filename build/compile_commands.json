@@ -1,0 +1,164 @@
+[
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/app/main.cc.o -c /Users/emilien/MATH-458/data_approximation/app/main.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/app/main.cc",
+  "output": "CMakeFiles/main.dir/app/main.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/types/data_point.cc.o -c /Users/emilien/MATH-458/data_approximation/src/types/data_point.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/types/data_point.cc",
+  "output": "CMakeFiles/main.dir/src/types/data_point.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/types/interval.cc.o -c /Users/emilien/MATH-458/data_approximation/src/types/interval.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/types/interval.cc",
+  "output": "CMakeFiles/main.dir/src/types/interval.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/streamable/streamable.cc.o -c /Users/emilien/MATH-458/data_approximation/src/streamable/streamable.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/streamable/streamable.cc",
+  "output": "CMakeFiles/main.dir/src/streamable/streamable.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/streamable/spline_coefficients.cc.o -c /Users/emilien/MATH-458/data_approximation/src/streamable/spline_coefficients.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/streamable/spline_coefficients.cc",
+  "output": "CMakeFiles/main.dir/src/streamable/spline_coefficients.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/data_set/data_set.cc.o -c /Users/emilien/MATH-458/data_approximation/src/data_set/data_set.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/data_set/data_set.cc",
+  "output": "CMakeFiles/main.dir/src/data_set/data_set.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/data_set/disk_data_set.cc.o -c /Users/emilien/MATH-458/data_approximation/src/data_set/disk_data_set.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/data_set/disk_data_set.cc",
+  "output": "CMakeFiles/main.dir/src/data_set/disk_data_set.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/data_set/r_a_m_data_set.cc.o -c /Users/emilien/MATH-458/data_approximation/src/data_set/r_a_m_data_set.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/data_set/r_a_m_data_set.cc",
+  "output": "CMakeFiles/main.dir/src/data_set/r_a_m_data_set.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/point_parser/point_parser.cc.o -c /Users/emilien/MATH-458/data_approximation/src/point_parser/point_parser.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/point_parser/point_parser.cc",
+  "output": "CMakeFiles/main.dir/src/point_parser/point_parser.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/point_parser/c_s_v_parser.cc.o -c /Users/emilien/MATH-458/data_approximation/src/point_parser/c_s_v_parser.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/point_parser/c_s_v_parser.cc",
+  "output": "CMakeFiles/main.dir/src/point_parser/c_s_v_parser.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/point_parser/white_space_parser.cc.o -c /Users/emilien/MATH-458/data_approximation/src/point_parser/white_space_parser.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/point_parser/white_space_parser.cc",
+  "output": "CMakeFiles/main.dir/src/point_parser/white_space_parser.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/point_parser/binairy_parser.cc.o -c /Users/emilien/MATH-458/data_approximation/src/point_parser/binairy_parser.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/point_parser/binairy_parser.cc",
+  "output": "CMakeFiles/main.dir/src/point_parser/binairy_parser.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/data_loader.cc.o -c /Users/emilien/MATH-458/data_approximation/src/data_loader.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/data_loader.cc",
+  "output": "CMakeFiles/main.dir/src/data_loader.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/interpolator/interpolator.cc.o -c /Users/emilien/MATH-458/data_approximation/src/interpolator/interpolator.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/interpolator/interpolator.cc",
+  "output": "CMakeFiles/main.dir/src/interpolator/interpolator.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/interpolator/lagrange.cc.o -c /Users/emilien/MATH-458/data_approximation/src/interpolator/lagrange.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/interpolator/lagrange.cc",
+  "output": "CMakeFiles/main.dir/src/interpolator/lagrange.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/interpolator/barycentric.cc.o -c /Users/emilien/MATH-458/data_approximation/src/interpolator/barycentric.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/interpolator/barycentric.cc",
+  "output": "CMakeFiles/main.dir/src/interpolator/barycentric.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/interpolator/cubic_splines/cubic_splines.cc.o -c /Users/emilien/MATH-458/data_approximation/src/interpolator/cubic_splines/cubic_splines.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/interpolator/cubic_splines/cubic_splines.cc",
+  "output": "CMakeFiles/main.dir/src/interpolator/cubic_splines/cubic_splines.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/interpolator/cubic_splines/second_order_derivative_ends.cc.o -c /Users/emilien/MATH-458/data_approximation/src/interpolator/cubic_splines/second_order_derivative_ends.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/interpolator/cubic_splines/second_order_derivative_ends.cc",
+  "output": "CMakeFiles/main.dir/src/interpolator/cubic_splines/second_order_derivative_ends.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/basis/basis.cc.o -c /Users/emilien/MATH-458/data_approximation/src/basis/basis.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/basis/basis.cc",
+  "output": "CMakeFiles/main.dir/src/basis/basis.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/basis/lagrange_basis.cc.o -c /Users/emilien/MATH-458/data_approximation/src/basis/lagrange_basis.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/basis/lagrange_basis.cc",
+  "output": "CMakeFiles/main.dir/src/basis/lagrange_basis.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/basis/barycentric_basis.cc.o -c /Users/emilien/MATH-458/data_approximation/src/basis/barycentric_basis.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/basis/barycentric_basis.cc",
+  "output": "CMakeFiles/main.dir/src/basis/barycentric_basis.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/basis/cubic_splines_basis.cc.o -c /Users/emilien/MATH-458/data_approximation/src/basis/cubic_splines_basis.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/basis/cubic_splines_basis.cc",
+  "output": "CMakeFiles/main.dir/src/basis/cubic_splines_basis.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/pipeline.cc.o -c /Users/emilien/MATH-458/data_approximation/src/pipeline.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/pipeline.cc",
+  "output": "CMakeFiles/main.dir/src/pipeline.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/export/export.cc.o -c /Users/emilien/MATH-458/data_approximation/src/export/export.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/export/export.cc",
+  "output": "CMakeFiles/main.dir/src/export/export.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/export/visualizer/visualizer.cc.o -c /Users/emilien/MATH-458/data_approximation/src/export/visualizer/visualizer.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/export/visualizer/visualizer.cc",
+  "output": "CMakeFiles/main.dir/src/export/visualizer/visualizer.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/export/dump.cc.o -c /Users/emilien/MATH-458/data_approximation/src/export/dump.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/export/dump.cc",
+  "output": "CMakeFiles/main.dir/src/export/dump.cc.o"
+},
+{
+  "directory": "/Users/emilien/MATH-458/data_approximation/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/main.dir/src/export/visualizer/g_n_u_plot.cc.o -c /Users/emilien/MATH-458/data_approximation/src/export/visualizer/g_n_u_plot.cc",
+  "file": "/Users/emilien/MATH-458/data_approximation/src/export/visualizer/g_n_u_plot.cc",
+  "output": "CMakeFiles/main.dir/src/export/visualizer/g_n_u_plot.cc.o"
+}
+]

@@ -2,7 +2,12 @@
 #define __R_A_M_DATA_SET__HH__
 
 /* -------------------------------------------------------------------------- */
+#include "../types/data_point.hh"
+#include "../types/interval.hh"
 #include "data_set.hh"
+
+#include <cstddef>
+#include <vector>
 
 /**
   * Documentation TODO

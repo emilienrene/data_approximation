@@ -2,6 +2,10 @@
 #define __INTERPOLATOR__HH__
 
 /* -------------------------------------------------------------------------- */
+#include "../data_set/data_set.hh"
+
+#include <optional>
+#include <utility>
 
 /**
   * Documentation TODO

@@ -1,4 +1,10 @@
 #include "white_space_parser.hh"
+#include "point_parser.hh"
+
+#include <fstream>
+#include <istream>
+#include <optional>
+
 /* -------------------------------------------------------------------------- */
 
  WhiteSpaceParser::WhiteSpaceParser(std::ifstream& input) : PointParser(input){

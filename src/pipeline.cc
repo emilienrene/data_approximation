@@ -1,4 +1,7 @@
 #include "pipeline.hh"
+
+#include <string>
+
 /* -------------------------------------------------------------------------- */
 
  Pipeline::Pipeline(std::string dataFilePath){

@@ -2,8 +2,14 @@
 #define __DISK_DATA_SET__HH__
 
 /* -------------------------------------------------------------------------- */
+#include "../streamable/streamable.hh"
+#include "../types/data_point.hh"
+#include "../types/interval.hh"
 #include "data_set.hh"
-#include "streamable.hh"
+
+#include <cstddef>
+#include <string>
+#include <vector>
 
 /**
   * Documentation TODO

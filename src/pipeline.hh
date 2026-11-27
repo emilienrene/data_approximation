@@ -2,6 +2,10 @@
 #define __PIPELINE__HH__
 
 /* -------------------------------------------------------------------------- */
+#include "export/export.hh"
+#include "interpolator/interpolator.hh"
+
+#include <string>
 
 /**
   * Documentation TODO

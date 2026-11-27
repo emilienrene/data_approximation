@@ -1,12 +1,11 @@
 #include "basis.hh"
+
+#include <vector>
+
 /* -------------------------------------------------------------------------- */
 
-std::array<double> Basis::evaluate_basis(double x){
-
+std::vector<double> Basis::evaluate_basis(double x)
+{
 }
 
-
-
 /* --------------------------------------------------------------------------- */
-
-

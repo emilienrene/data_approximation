@@ -1,4 +1,4 @@
-#include "binairy_parser.hh"
+#include "binary_parser.hh"
 #include "point_parser.hh"
 
 #include <fstream>
@@ -7,7 +7,7 @@
 
 /* -------------------------------------------------------------------------- */
 
-void BinairyParser::begin(std::istream& input){
+void BinaryParser::begin(std::istream& input){
 
 }
 
@@ -15,7 +15,7 @@ void BinairyParser::begin(std::istream& input){
 
 /* --------------------------------------------------------------------------- */
 
- BinairyParser::BinairyParserParser(std::ifstream& input) : PointParser(input){
+ BinaryParser::BinaryParser(std::ifstream& input) : PointParser(input){
 
 }
 
@@ -23,7 +23,7 @@ void BinairyParser::begin(std::istream& input){
 
 /* --------------------------------------------------------------------------- */
 
-std::optional<Point> BinairyParser::readNext(){
+std::optional<Point> BinaryParser::readNext(){
 
 }
 

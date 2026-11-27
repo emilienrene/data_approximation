@@ -1,5 +1,5 @@
-#ifndef __BINAIRY_PARSER__HH__
-#define __BINAIRY_PARSER__HH__
+#ifndef __BINARY_PARSER__HH__
+#define __BINARY_PARSER__HH__
 
 /* -------------------------------------------------------------------------- */
 #include "point_parser.hh"
@@ -12,7 +12,7 @@
   * Documentation TODO
   */
 
-class BinairyParser: public PointParser{
+class BinaryParser: public PointParser{
 
   /* ------------------------------------------------------------------------ */
   /* Methods                                                                  */
@@ -23,11 +23,11 @@ public:
   //! Documentation TODO
   void begin(std::istream& input);
   //! Documentation TODO
-  BinairyParserParser(std::ifstream& input) : PointParser(input);
+  BinaryParser(std::ifstream& input) : PointParser(input);
   //! Documentation TODO
   std::optional<Point> readNext();
 
 };
 
 /* -------------------------------------------------------------------------- */
-#endif //__BINAIRY_PARSER__HH__
+#endif //__BINARY_PARSER__HH__
